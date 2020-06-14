@@ -2,7 +2,7 @@
 # greetings
 
 def greet():
-	print("Hello World!")
+	print("Hello, World!")
 
 
 greet()
