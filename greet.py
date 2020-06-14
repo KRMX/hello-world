@@ -6,4 +6,3 @@ def greet():
 
 
 greet()
-input()
